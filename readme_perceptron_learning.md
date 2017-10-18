@@ -3,4 +3,4 @@
 
 Program must be run with input and output files as follows:
       
-      python perceptron.py input.csv output.csv
+      python perceptron.py input1.csv output1.csv
